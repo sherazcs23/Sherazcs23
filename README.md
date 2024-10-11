@@ -1,4 +1,5 @@
-
+## Hi there 👋
+My name is Sheraz, and  I'm interested in Web Development!
 - 🌱 I’m currently learning  javascript 
 - 👯 I’m looking for help with "Improving JavaScript skills, website optimization, and responsive design. Guidance from experienced frontend devs appreciated!"
 - 🤔 I’m looking to collaborate on "Building responsive web apps using HTML, CSS, JavaScript, and React/Angular. Let's create something amazing!"
