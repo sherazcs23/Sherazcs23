@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+Tech Stack
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,12 +15,12 @@
 
 
 
-### 🌱 Current Learning
-- 🚀 **React.js** — Building interactive UIs
-- 🎨 Improving my **CSS** & **JavaScript** skills
+Current Learning
+   React.js — Building interactive UIs
+   Improving my CSS & JavaScript skills
 
 
-### 📫 How to reach me:
-- 📧 **Email:** [sherazcs23@gmail.com](mailto:sherazcs23@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sheraz-hussain-khalid-8188b4294](https://www.linkedin.com/in/sheraz-hussain-khalid-8188b4294/)
+How to reach me:
+Email: [sherazcs23@gmail.com](mailto:sherazcs23@gmail.com)  
+LinkedIn: [linkedin.com/in/sheraz-hussain-khalid-8188b4294](https://www.linkedin.com/in/sheraz-hussain-khalid-8188b4294/)
 
