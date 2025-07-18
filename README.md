@@ -1,5 +1,4 @@
 <h1 align="center" style="color:#4CAF50;">Hi, I'm Sheraz Hussain Khalid 👋</h1>
-
 <p align="center">
 ✨ <span style="color:#e34c26"><b>Frontend</b></span> <span style="color:#1572b6"><b>Developer</b></span> | Building <span style="color:#f7df1e"><b>Creative</b></span> & <span style="color:#61dafb"><b>Interactive</b></span> Web Experiences
 </p>
@@ -14,20 +13,14 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
----
+
 
 ### 🌱 Current Learning
 - 🚀 **React.js** — Building interactive UIs
 - 🎨 Improving my **CSS** & **JavaScript** skills
 
----
 
 ### 📫 How to reach me:
 - 📧 **Email:** [sherazcs23@gmail.com](mailto:sherazcs23@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/sheraz-hussain-khalid-8188b4294](https://www.linkedin.com/in/sheraz-hussain-khalid-8188b4294/)
 
----
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
