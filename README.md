@@ -13,13 +13,15 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 ---
 
 ## 📚 Currently Learning
-- ⚛️ **React.js** — Building interactive UIs  
-- 🎨 Improving **CSS** & **JavaScript** skills
+- ⚛️ **React.js** — Building modern and interactive UIs  
+- 🎨 Enhancing **CSS** & **JavaScript** skills  
+- 🖌 **React Bootstrap** — Faster UI development with ready-made components
 
 ---
 
