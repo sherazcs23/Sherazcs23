@@ -1,11 +1,30 @@
-<h1 align="center">Hi 👋, I'm Sheraz Hussain Khalid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center" style="color:#4CAF50;">👋 Hi, I'm <span style="color:#4CAF50;">Sheraz Hussain Khalid</span></h1>
 
-- 🌱 I’m currently learning **React**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+   🌟 <b style="color:#e34c26;">Frontend</b> <b style="color:#1572b6;">Developer</b> — Crafting 
+   <b style="color:#f7df1e;">Creative</b> & <b style="color:#61dafb;">Interactive</b> Web Experiences
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Tech Stack
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
+
+---
+
+## 📚 Currently Learning
+- ⚛️ **React.js** — Building modern and interactive UIs  
+- 🎨 Enhancing **CSS** & **JavaScript** skills  
+- 🖌 **React Bootstrap** — Faster UI development with ready-made components
+
+---
+
+## 📬 Connect with Me
+- 📧 **Email:** [sherazcs23@gmail.com](mailto:sherazcs23@gmail.com)  
+- 💼 **LinkedIn:** [Sheraz Hussain Khalid](https://www.linkedin.com/in/sheraz-hussain-khalid-8188b4294/)
