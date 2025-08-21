@@ -1,19 +1,25 @@
-# Hi, I'm Sheraz Hussain Khalid  
+# Frontend Developer  
 
-**Frontend Developer** — Crafting creative & interactive web experiences  
+<p align="center">
+  <b>Sheraz Hussain Khalid</b>  
+</p>
+
+<p align="center">
+  CS Student | Passionate about building creative & interactive web experiences  
+</p>
 
 ---
 
 ## 🚀 Tech Stack
-- HTML5 | CSS3 | JavaScript  
-- React | React Bootstrap | Tailwind CSS  
+- **Core:** HTML5 | CSS3 | JavaScript  
+- **Frameworks & Libraries:** React.js | React Bootstrap | Tailwind CSS | React Router  
 
 ---
 
 ## 📚 Currently Learning
-- React.js (modern UIs)  
+- React.js (modern UI development)  
 - Advanced CSS & JavaScript  
-- UI development with Bootstrap & Tailwind  
+- UI optimization with Bootstrap & Tailwind  
 
 ---
 
